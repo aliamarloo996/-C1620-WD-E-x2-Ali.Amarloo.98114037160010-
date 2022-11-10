@@ -15,4 +15,13 @@ var y = 6;
     document.write(x==y , "<br>" , x!=y , "<br>");
     var q = 25;
     document.write((15>x)&&(x<5));
-    
+function msg() {
+    alert ("welcome");   
+}
+msg ();
+ function m (m1) {
+    alert(m1);
+ }
+ var t = "hello";
+ m(t);
+ 
